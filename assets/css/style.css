@@ -186,7 +186,7 @@ span {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: calc(100vh - 190px);
+  height: calc(100vh - 10px);
   /*background: url(../img/hero-bg.png) center bottom no-repeat;*/
   background-size: 100%;
   position: relative;
@@ -570,7 +570,6 @@ body.mobile-nav-active #mobile-nav-toggle i {
   font-size: 15px;
   font-weight: 300;
   margin-bottom: 30px;
-  text-transform: capitalize;
 }
 
 /* Get Started Section
