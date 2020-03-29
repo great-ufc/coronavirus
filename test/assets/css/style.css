@@ -830,7 +830,6 @@ h1, h2, h3, h4, h5, h6 {
   color: #e2effe;
   font-weight: 500;
   font-size: 14px;
-  text-transform: uppercase;
 }
 
 #portfolio .portfolio-item .portfolio-wrap .portfolio-info .link-preview, #portfolio .portfolio-item .portfolio-wrap .portfolio-info .link-details {
