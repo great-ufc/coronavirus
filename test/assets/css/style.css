@@ -1242,7 +1242,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #footer .footer-top .footer-info {
-  margin-bottom: 30px;
+  margin-bottom: 0px;
 }
 
 #footer .footer-top .footer-info h3 {
@@ -1295,7 +1295,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #footer .footer-top .footer-links {
-  margin-bottom: 30px;
+  margin-bottom: 0px;
 }
 
 #footer .footer-top .footer-links ul {
@@ -1321,7 +1321,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #footer .footer-top .footer-contact {
-  margin-bottom: 30px;
+  margin-bottom: 0px;
 }
 
 #footer .footer-top .footer-contact p {
@@ -1329,7 +1329,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #footer .footer-top .footer-newsletter {
-  margin-bottom: 30px;
+  margin-bottom: 0px;
 }
 
 #footer .footer-top .footer-newsletter input[type="email"] {
